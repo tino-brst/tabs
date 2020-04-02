@@ -143,49 +143,49 @@ A|---------------|----------5\2-------2--------|
 E|---10----8-----|--3---5/7--------------------|
 ```
 
-`\` Slide down
-`/` Slide up
-`h` Hammer-on
-`p` Pull-off
+`\` Slide down  
+`/` Slide up  
+`h` Hammer-on  
+`p` Pull-off  
 
 ### Lyrics
 
-Did you know that you could be wrong
-And swear you're right
-Some people been known to do it all their lives
-But you find yourself alone just like you found yourself before
-Like I found myself in pieces on the hotel floor
+Did you know that you could be wrong  
+And swear you're right  
+Some people been known to do it all their lives  
+But you find yourself alone just like you found yourself before  
+Like I found myself in pieces on the hotel floor  
 
-Hard times have helped me see
-I'm a good man with a good heart
-Had a tough time, got a rough start
-But I finally learned to let it go
-Now I'm right here and I'm right now
+Hard times have helped me see  
+I'm a good man with a good heart  
+Had a tough time, got a rough start  
+But I finally learned to let it go  
+Now I'm right here and I'm right now  
 
-And I'm open knowing somehow
-That my shadow days are over
-My shadow days are over now
-Well I ain't no troublemaker
+And I'm open knowing somehow  
+That my shadow days are over  
+My shadow days are over now  
+Well I ain't no troublemaker  
 
-And I never meant her harm
-But that doesn't mean I didn't make it hard to carry on
-Well it sucks to be honest
-And it hurts to be real
-But it's nice to make some love that I can finally feel
-Hard times, let me be
+And I never meant her harm  
+But that doesn't mean I didn't make it hard to carry on  
+Well it sucks to be honest  
+And it hurts to be real  
+But it's nice to make some love that I can finally feel  
+Hard times, let me be  
 
-I'm a good man with a good heart
-Had a tough time, got a rough start
-But I finally learned to let it go
-Now I'm right here and I'm right now
-And I'm open knowing somehow
-That my shadow days are over
-My shadow days are over now
+I'm a good man with a good heart  
+Had a tough time, got a rough start  
+But I finally learned to let it go  
+Now I'm right here and I'm right now  
+And I'm open knowing somehow  
+That my shadow days are over  
+My shadow days are over now  
 
-I'm a good man with a good heart
-Had a tough time, got a rough start
-But I finally learned to let it go
-Now I'm right here and I'm right now
-And I'm open knowing somehow
-That my shadow days are over
-My shadow days are over now
+I'm a good man with a good heart  
+Had a tough time, got a rough start  
+But I finally learned to let it go  
+Now I'm right here and I'm right now  
+And I'm open knowing somehow  
+That my shadow days are over  
+My shadow days are over now  
