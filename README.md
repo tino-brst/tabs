@@ -9,7 +9,7 @@ A collection of guitar tabs.
 
 ### John Mayer
 
-- Dear Marie
+- [Dear Marie](./john-mayer/dear-marie.md)
 - Love Is A Verb
 - On The Way Home
 - [Shadow Days](./john-mayer/shadow-days.md)
