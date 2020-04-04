@@ -69,8 +69,8 @@ E|---5---------|---5-----2--------|---5---|
 
 ### Lyrics
 
-Dear Marie, tell me what it was I used to be
-Oh Dear Marie, tell me what it was I used to be 
+Dear Marie, tell me what it was I used to be  
+Oh Dear Marie, tell me what it was I used to be  
 And if you’re further up the road, can you show me what I still can’t see?  
 
 Remember me, I’m the boy you used to love when we were fifteen  
