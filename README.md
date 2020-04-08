@@ -5,7 +5,7 @@ A collection of guitar tabs.
 ### Ben Howard
 
 - I Forget Where We Were
-- In Dreams
+- [In Dreams](./ben-howard/in-dreams.md)
 
 ### John Mayer
 
