@@ -146,8 +146,8 @@ E|---10----8----|---3---5/7-------------|
 
 `\` Slide down  
 `/` Slide up  
-`h` Hammer-on  
-`p` Pull-off  
+`h` Hammer on  
+`p` Pull off  
 
 ### Lyrics
 
