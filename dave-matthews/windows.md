@@ -29,7 +29,8 @@ D|---2---0---0---0--(2)----------|
 A|--(2)----------2---3--(2)------|
 E|---0---2---3-----------3---2---|
                              *
-...
+
+Those two sections are repeated throughout the rest of the song, with small variations like the one in the next line:
 
 "None of us know what's to come tomorrow"
 
@@ -52,7 +53,8 @@ A|----------(2)----(2)-----2---3------3------2---0-------0----------|
 E|---3---2---0------0-------------------------------------------3---|
 ```
 
-`*` Emphasis on difference with previous sections
+`*` Emphasis on the differences with previous sections
+`()` Notes that may not be played but complete the shape of the chord
 
 ### Lyrics
 
