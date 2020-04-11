@@ -67,7 +67,7 @@ E|---0---2---3-----------3---|
 ```
 
 `*` Emphasis on difference with previous sections  
-`()` Notes that may not be played but complete the shape of the chord
+`()` Notes that may not be played but complete the shape of the chord  
 
 ### Lyrics
 
@@ -129,5 +129,5 @@ Voices outside and no one knows
 Singing from the windows  
 We'll get going again  
 
-`[Ending]`
+`[Ending]`  
 When the war is over  
