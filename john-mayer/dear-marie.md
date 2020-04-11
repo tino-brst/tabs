@@ -10,7 +10,7 @@
 The technique used to play each chord is the same as the one used in **Stop This Train** (also by John), the parts that are played differently are tabbed.
 
 ```
-Intro
+[Intro]
  
 e|-------------------------------------|
 B|------5-----------5-----------5------|
@@ -25,6 +25,9 @@ G|---6---4---|
 D|---7---7---|
 A|-----------|
 E|---5---5---|
+
+
+[Verse]
    
 "Dear Marie, tell me what it was I used to be"
 
@@ -53,9 +56,10 @@ D|---7---7-----9----7----|
 A|-------------11---9----|
 E|---5---5---------------|
 
-Those three sections are used throughout the entire song.
 
-Ending (strumming)
+[Ending]
+
+Switch to strumming
  
 e|-------------|------------------|-------|
 B|---5----10---|---5-----2---10---|---5---|
@@ -69,18 +73,22 @@ E|---5---------|---5-----2--------|---5---|
 
 ### Lyrics
 
+`[Verse]`  
 Dear Marie, tell me what it was I used to be  
 Oh Dear Marie, tell me what it was I used to be  
 And if you’re further up the road, can you show me what I still can’t see?  
 
+`[Verse]`  
 Remember me, I’m the boy you used to love when we were fifteen  
 Remember me, I’m the boy you used to love when we were fifteen  
 Now I wonder what you think, when you see me on the magazine  
 
+`[Verse]`  
 From time to time, I go looking for your photograph online  
 From time to time, I go looking for your photograph online  
 Some county judge in Ohio is all I ever find  
 
+`[Verse]`  
 Dear Marie, tell me do you still believe in me?  
 Dear Marie, tell me do you still believe in me?  
 Well I’ve got my dream, but you’ve got a family  
