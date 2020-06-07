@@ -9,7 +9,7 @@ A collection of guitar tabs.
 
 ### Dave Matthews
 
-- [Windows](./dave-matthews/windows.md)
+- [Singing From The Windows](./dave-matthews/windows.md)
 
 ### John Mayer
 
