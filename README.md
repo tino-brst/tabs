@@ -14,10 +14,11 @@ A collection of guitar tabs.
 ### John Mayer
 
 - [Dear Marie](./john-mayer/dear-marie.md)
-- Love Is A Verb
-- On The Way Home
+- Love Is A Verb `coming soon`
+- On The Way Home `coming soon`
 - [Shadow Days](./john-mayer/shadow-days.md)
 
 ### Jorge Drexler
 
 - [Tres Mil Millones de Latidos](./jorge-drexler/tres-mil-millones-de-latidos.md)
+- [Sanar](./jorge-drexler/sanar.md)
